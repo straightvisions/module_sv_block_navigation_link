@@ -47,7 +47,6 @@
 			     ->set_is_responsive(true)
 			     ->load_type( 'margin' );
 
-
 			$this->get_setting( 'padding' )
 			     ->set_title( __( 'Padding', 'sv100' ) )
 			     ->set_is_responsive(true)
